@@ -1,8 +1,8 @@
 # A Benchmark for Deep Learning Based Object Detection in Maritime Environments
 
-The aim of this README is to give you alle necessary information to use the provided data and thus enable you to reproduce our results. 
+The aim of this README is to give you alle necessary information on how to use the provided data and thus enable you to reproduce our results. 
 
-To use this repository please refer to the [Detectron](https://github.com/facebookresearch/Detectron) repository of Facebook AI Research to download and install the used framework.
+To use this repository please first refer to [Facebook AI Research's Detectron repository](https://github.com/facebookresearch/Detectron) to download and install the used framework.
 
 
 ## TODOs
