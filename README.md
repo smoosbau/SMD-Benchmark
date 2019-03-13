@@ -6,8 +6,8 @@ To use this repository please first visit [Facebook AI Research's Detectron repo
 
 
 ## TODOs
-- write a manual on how to use the provided data
-- upload the algorithm for automated generation of instance segmentation labels in maritime environments.
-- upload config files necessary to reproduce training strategies
-- upload evaluation scripts to make sure evaluation is done the same way
-- upload all files changed inside detectron such as dataset_catalog.py and task_evaluation.py
+- [ ] write a manual on how to use the provided data
+- [ ] upload the algorithm for automated generation of instance segmentation labels in maritime environments.
+- [ ] upload config files necessary to reproduce training strategies
+- [ ] upload evaluation scripts to make sure evaluation is done the same way
+- [ ] upload all files changed inside detectron such as dataset_catalog.py and task_evaluation.py
