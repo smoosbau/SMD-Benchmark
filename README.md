@@ -10,5 +10,5 @@ To use this repository please first visit [Facebook AI Research's Detectron repo
 - [x] upload config files necessary to reproduce training strategies
 - [ ] amend output dirs in config files to match future directory structure
 - [ ] upload evaluation scripts to make sure evaluation is done the same way
-- [ ] upload all files changed inside detectron such as dataset_catalog.py and task_evaluation.py
+- [x] upload all files changed inside detectron such as dataset_catalog.py and task_evaluation.py
 - [x] upload the annotation files
